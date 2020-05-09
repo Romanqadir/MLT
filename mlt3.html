@@ -304,12 +304,12 @@
         var scroll = new SmoothScroll('a[href*=". "]');
     </script>
     <script>
-        window.onmousedown = function() {
+        window.onmouseout = function() {
             var x = document.getElementById("navbar");
             x.style.position = "sticky";
 
         }
-        window.onmouseout = function() {
+        window.onmouseover = function() {
             var x = document.getElementById("navbar");
             x.style.position = "fixed";
         }
