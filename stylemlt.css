@@ -1,0 +1,26 @@
+/* #header a {
+    color: white !important;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropdown div a:hover {
+    color: black;
+} */
+
+.navbar a {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.carousel-inner img {
+    height: 415px;
+}
+
+#mlt-parts {
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 1px;
+    padding-left: 2px;
+}
