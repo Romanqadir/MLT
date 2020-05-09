@@ -24,3 +24,27 @@
     padding: 1px;
     padding-left: 2px;
 }
+
+#social {
+    background-image: linear-gradient(to bottom, black, black, grey, white);
+    width: 100%;
+}
+
+#social img {
+    width: 50px;
+    margin-top: 400px;
+    float: left;
+    margin-left: 50px;
+    z-index: 1;
+}
+
+#social h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin-top: 250px;
+    position: absolute;
+    color: #fff;
+    margin-left: 270px;
+}
